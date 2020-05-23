@@ -1,4 +1,4 @@
-# cpu-temp
+# raspi-temp
 Script simple en Python para visualizar la temperatura de la Raspberry Pi utilizando `vcgencmd`.
 
 
